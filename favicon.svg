@@ -1,0 +1,9 @@
+<svg width="240px" height="240px" fill="none" viewBox="0 0 240 240" owner="Martin (M.M.C.K.) Kaptein" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Martin Kaptein Logo</title>
+<desc>Sonata 8 Logo licensed under Creative Commons 4.0 (CC BY-NC 4.0) license, created by Martin Kaptein (M.M.C.K.) using the vim text editor, for the sonata8.com website.</desc>
+<g transform="translate(120,120)">
+<circle cx="0" cy="0" r="120" fill="#456266"/>
+<path d="M 0 0 A 30 30, 0, 0, 1, 60 -60 A 60 60, 0, 1, 0, 0 0 A 60 60, 0, 1, 1, -60 60 A 30 30, 0, 0, 0, 0 0" fill="#ffffff"/>
+</g>
+</svg>
+

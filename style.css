@@ -1,5 +1,5 @@
 body {
-background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('/sonata8.svg');
+background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('/bg.svg');
 background-position: center center;
 background-repeat: no-repeat;
 background-attachment: fixed;
