@@ -1,0 +1,52 @@
+body {
+background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('/sonata8.svg');
+background-position: center center;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+background-color: #456266;
+/*
+ * original average of sonata8.png: #72a2a8, with gradient of 0.4: #456266
+/* SHORTHAND CSS NOTATION
+ * background: url(background-photo.jpg) center center cover no-repeat fixed;
+ */
+
+text-align: center;
+color: #ffffff;
+font-family: sans-serif;
+}
+
+header {
+	margin-top: 1em;
+}
+
+a {
+	color: #ffffff;
+	text-decoration: none;
+}
+
+h1 {
+  font-weight: 300;
+  font-size: 70px;
+  /*line-height: 50px;*/
+  margin-top: 1em;
+}
+
+.nav {
+	margin-top: 1em;
+	font-size: 30px;
+	font-weight: 300;
+}
+
+.main {
+	font-size: 23px;
+	font-weight: 300;
+	margin-top: 3em;
+	margin-bottom: 4em;
+}
+
+.footer {
+	font-size: 20px;
+	font-weight: 300;
+	margin-bottom: 1em;
+}
